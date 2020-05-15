@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CVSConsume.iml" filepath="$PROJECT_DIR$/CVSConsume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSVConsume.iml" filepath="$PROJECT_DIR$/CSVConsume.iml" />
     </modules>
   </component>
 </project>
