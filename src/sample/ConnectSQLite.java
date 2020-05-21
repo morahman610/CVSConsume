@@ -82,7 +82,6 @@ public class ConnectSQLite {
                         }
 
                         prepStatement.setString(parameterIndex, value);
-                        System.out.println(parameterIndex + " " + value);
                     }
 
                     prepStatement.execute();
